@@ -1,0 +1,10 @@
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\Mphasis\.net\Day20\Assignment23\MainApp\MainApp\obj\Debug\MainApp.pdb
